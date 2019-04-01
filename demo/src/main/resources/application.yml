@@ -1,0 +1,4 @@
+okta:
+  oauth2:
+    client-id: 0oaersashIWyapUhv356
+    issuer: https://dev-380643.okta.com/oauth2/default/.well-known/oauth-authorization-server
